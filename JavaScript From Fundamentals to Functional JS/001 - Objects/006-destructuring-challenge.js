@@ -1,10 +1,10 @@
 var obj = {
-    name: 'Rusty',
-    room: 'Kitchen',
-    weapon: 'Candlestick'
-}
+  name: "Rusty",
+  room: "Kitchen",
+  weapon: "Candlestick",
+};
 
-var {room, weapon} = obj
+var { room, weapon } = obj;
 
-console.log('room: ', room);
-console.log('weapon: ', weapon);
+console.log("room: ", room);
+console.log("weapon: ", weapon);

@@ -1,8 +1,8 @@
 function f() {
-    return 3;
+  return 3;
 }
 
-var obj = {}
+var obj = {};
 
 obj[f()] = false;
 
